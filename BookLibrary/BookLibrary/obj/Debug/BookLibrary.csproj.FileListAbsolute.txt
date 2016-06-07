@@ -1,0 +1,12 @@
+c:\users\joshua\documents\visual studio 2015\Projects\BookLibrary\BookLibrary\bin\Debug\BookLibrary.exe.config
+c:\users\joshua\documents\visual studio 2015\Projects\BookLibrary\BookLibrary\bin\Debug\BookLibrary.exe
+c:\users\joshua\documents\visual studio 2015\Projects\BookLibrary\BookLibrary\bin\Debug\BookLibrary.pdb
+c:\users\joshua\documents\visual studio 2015\Projects\BookLibrary\BookLibrary\obj\Debug\BookLibrary.csprojResolveAssemblyReference.cache
+c:\users\joshua\documents\visual studio 2015\Projects\BookLibrary\BookLibrary\obj\Debug\BookLibrary.exe
+c:\users\joshua\documents\visual studio 2015\Projects\BookLibrary\BookLibrary\obj\Debug\BookLibrary.pdb
+C:\Users\Joshua\OneDrive\Documents\Visual Studio\BookLibrary\BookLibrary\bin\Debug\BookLibrary.exe.config
+C:\Users\Joshua\OneDrive\Documents\Visual Studio\BookLibrary\BookLibrary\obj\Debug\BookLibrary.exe
+C:\Users\Joshua\OneDrive\Documents\Visual Studio\BookLibrary\BookLibrary\obj\Debug\BookLibrary.pdb
+C:\Users\Joshua\OneDrive\Documents\Visual Studio\BookLibrary\BookLibrary\bin\Debug\BookLibrary.exe
+C:\Users\Joshua\OneDrive\Documents\Visual Studio\BookLibrary\BookLibrary\bin\Debug\BookLibrary.pdb
+C:\Users\Joshua\OneDrive\Documents\Visual Studio\BookLibrary\BookLibrary\obj\Debug\BookLibrary.csprojResolveAssemblyReference.cache
